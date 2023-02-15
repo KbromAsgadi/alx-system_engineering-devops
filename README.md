@@ -1,1 +1,1 @@
-this is my thrid repository as a student
+Create a script that counts the number of directories in the PATH
